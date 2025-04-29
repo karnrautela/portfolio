@@ -1,7 +1,7 @@
 import gehuLogo from './assets/education_logo/gehu.png'
 import avLogo from './assets/education_logo/avbil.png'
 import PythonLogo from './assets/tech_logo/python.png'
-import JavaLogo from './assets/tech_logo/Java.png'
+import JavaLogo from './assets/tech_logo/java.png'
 import JsLogo from './assets/tech_logo/javascript.png'
 import TsLogo from './assets/tech_logo/typescript.png'
 import htmlLogo from './assets/tech_logo/html.png';
@@ -34,7 +34,7 @@ import figmaLogo from './assets/tech_logo/figma.png';
 import netlifyLogo from './assets/tech_logo/netlify.png';
 import vercelLogo from './assets/tech_logo/vercel.png';
 import postgreLogo from './assets/tech_logo/postgre.png';
-import csharpLogo from './assets/tech_logo/csharp.png';
+
 import zLogo from './assets/company_logo/z.png';
 
 
