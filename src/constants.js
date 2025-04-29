@@ -1,6 +1,6 @@
 import gehuLogo from './assets/education_logo/gehu.png'
 import avLogo from './assets/education_logo/avbil.png'
-import PythonLogo from './assets/tech_logo/Python.png'
+import PythonLogo from './assets/tech_logo/python.png'
 import JavaLogo from './assets/tech_logo/Java.png'
 import JsLogo from './assets/tech_logo/javascript.png'
 import TsLogo from './assets/tech_logo/typescript.png'
